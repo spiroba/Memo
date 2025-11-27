@@ -12,8 +12,8 @@ The words of which the initial letter is capitalized have meanings defined under
 ### Definitions
 For the purposes of this Privacy Policy:
 * **Account** means a unique account created for You to access our Service or parts of our Service.
-* **Application** means the software program provided by the Company downloaded by You on any electronic device, named Memo.
-* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Memo.
+* **Application** means the software program provided by the Company downloaded by You on any electronic device, named Pairs Match.
+* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Pairs Match.
 * **Country** refers to: Russia
 * **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 * **Personal Data** is any information that relates to an identified or identifiable individual.
